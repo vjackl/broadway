@@ -8,6 +8,11 @@ h1{
   font-weight: bold;
   color: white
 }
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
 .hero{
 
   background-image: url('../images/the-flatiron-building.png');
@@ -18,7 +23,13 @@ h1{
   font-size: 18px;
 }
 
+
 .topmenu{
   font-size: 18px;
   color: white;
+}
+
+.sub_head{
+  font-size: 23px;
+  font-weight: bold;
 }
